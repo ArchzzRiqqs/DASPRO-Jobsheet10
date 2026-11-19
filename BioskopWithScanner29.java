@@ -45,7 +45,7 @@ public class BioskopWithScanner29 {
                 }
 
             } else if (pilihan == 2) {
-                System.out.println("\n===== DAFTAR PENONTON =====");
+                System.out.println("\nDAFTAR PENONTON");
 
                 for (int i = 0; i < penonton.length; i++) {
                     for (int j = 0; j < penonton[i].length; j++) {
